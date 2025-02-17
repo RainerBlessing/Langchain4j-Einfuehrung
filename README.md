@@ -24,7 +24,8 @@ Erstelle die Datei config.properties im Hauptverzeichnis mit folgendem Inhalt:
 openai.api.key=DEIN_OPENAI_API_KEY
 ```
 
-📚 Ressourcen
+## 📚 Ressourcen
 📌 Langchain4j Doku: https://github.com/langchain4j/langchain4j
+
 📌 YouTube-Video zum Code: https://youtu.be/TorsMT_f2XA
 
